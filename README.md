@@ -1,8 +1,8 @@
-Project Objectives
+## Project Objectives
 
 Build a traffic analytics and business intelligence (BI) system to analyze traffic flow, congestion patterns, and peak-hour trends using data analytics and visualization tools. The project aims to generate actionable insights that can support traffic management, route optimization, and urban planning decisions.
 
-Project Workflow
+## Project Workflow
 
 - Collect and analyze traffic sensor or simulated traffic datasets
 - Preprocess and clean time-series and location-based traffic data
